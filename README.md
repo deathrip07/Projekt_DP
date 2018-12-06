@@ -1,3 +1,3 @@
 # Projekt_DP
 Kordian Iwanicki  
-Arek Marciniak
+Arkadiusz Marciniak
